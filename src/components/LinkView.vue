@@ -7,7 +7,6 @@
 
 <script>
 export default {
-  name: 'YourComponentName',
   props: {
     link: {
       type: String,

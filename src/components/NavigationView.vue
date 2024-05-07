@@ -1,8 +1,8 @@
 <script setup></script>
 <template>
-  <main class="flex justify-center">
+  <main class="flex sticky top-0 justify-center">
     <nav
-      class="bg-slate-600 flex justify-center text-white gap-12 p-5 w-60 border-2 m-5 rounded-3xl border-cyan-600"
+      class="bg-slate-800 bg-opacity-80 flex justify-center text-white gap-12 p-5 w-60 border-2 m-5 rounded-3xl border-slate-500/[0.10]"
     >
       <RouterLink to="/">
         <svg
@@ -11,7 +11,7 @@
           viewBox="0 0 24 24"
           stroke-width="1.5"
           stroke="currentColor"
-          class="w-6 h-6 hover:opacity-55"
+          class="w-6 h-6 hover:text-cyan-500"
         >
           <path
             stroke-linecap="round"
@@ -27,7 +27,7 @@
           viewBox="0 0 24 24"
           stroke-width="1.5"
           stroke="currentColor"
-          class="w-6 h-6 hover:opacity-55"
+          class="w-6 h-6 hover:text-cyan-500"
         >
           <path
             stroke-linecap="round"
@@ -43,7 +43,7 @@
           viewBox="0 0 24 24"
           stroke-width="1.5"
           stroke="currentColor"
-          class="w-6 h-6 hover:opacity-55"
+          class="w-6 h-6 hover:text-cyan-500"
         >
           <path
             stroke-linecap="round"
