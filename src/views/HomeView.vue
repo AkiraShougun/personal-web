@@ -4,8 +4,12 @@ import Linker from '../components/LinkView.vue'
 
 <template>
   <main class="mx-11 lg:mx-60 my-10">
-    <h1 class="pb-5">Hi I am <span class="text-cyan-300">Deltoid!</span></h1>
-    <p>I'm a self taught developer with a passion in pure mathematics.</p>
+    <h1 class="pb-5">Hi, I am <span class="text-cyan-300">Deltoid!</span></h1>
+    <p>
+      I'm a self taught developer who's a passion in fullstack development and Android development.
+    </p>
+    <p>I'm also passionate about pure mathematics and composing music.</p>
+    <p class="my-2"><strong>Here is my info card:</strong></p>
     <div class="max-w-96 my-5 rounded-md">
       <div class="bg-[#2b2d31] min-h-24 flex rounded-lg rounded-b-none border-b-2 border-cyan-300">
         <img class="size-16 rounded-full m-4" src="../assets/pfp.jpg" alt="pfp" />

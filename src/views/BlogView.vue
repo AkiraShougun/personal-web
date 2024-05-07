@@ -1,9 +1,9 @@
-<template lang="">
+<template>
   <div>
-    <h1>Blog will be here</h1>
+    <h1 class="ml-5">Need to drop in some stuff here...</h1>
   </div>
 </template>
 <script>
 export default {}
 </script>
-<style lang=""></style>
+<style></style>

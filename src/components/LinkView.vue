@@ -1,7 +1,7 @@
 <template>
   <div class="p-4 flex gap-3">
     <slot></slot>
-    <a class="text-gray-100" :href="link">{{ name }}</a>
+    <a class="text-gray-100 hover:bg-gray-700 rounded-lg px-2" :href="link">{{ name }}</a>
   </div>
 </template>
 
