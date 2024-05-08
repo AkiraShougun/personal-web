@@ -1,5 +1,5 @@
 <template>
-  <main class="flex sticky top-0 justify-center">
+  <main class="flex sticky top-0 z-10 justify-center">
     <nav
       class="bg-slate-800 bg-opacity-80 flex justify-center text-white gap-12 p-5 w-60 border-2 m-5 rounded-3xl border-slate-500/[0.10]"
     >

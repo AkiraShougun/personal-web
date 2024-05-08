@@ -1,5 +1,5 @@
 <template>
-  <main class="mx-2 my-5 md:grid-cols-2 lg:mx-60 grid lg:grid-cols-2">
+  <main class="mx-2 my-5 md:grid-cols-2 lg:mx-60 grid lg:grid-cols-2 gap-4">
     <RouterLink
       :to="`/blog/` + blog.slug"
       v-for="(blog, index) in myJson"

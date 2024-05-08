@@ -25,6 +25,6 @@
   h2,
   h3,
   p {
-    @apply font-sans text-white;
+    @apply text-white;
   }
 }

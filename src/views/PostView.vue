@@ -1,5 +1,5 @@
 <template>
-  <main class="mx-2 my-5 lg:mx-60 lg:my-5">
+  <main class="mx-2 my-5 lg:mx-60 lg:my-5 font-serif">
     <div v-if="postComponent">
       <component :is="postComponent" />
     </div>
