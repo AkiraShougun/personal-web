@@ -13,7 +13,9 @@
   "dependencies": {
     "autoprefixer": "^10.4.19",
     "axios": "^1.6.8",
+    "markdown-it-katex": "^2.0.3",
     "postcss": "^8.4.38",
+    "unplugin-vue-markdown": "^0.26.2",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },

@@ -1,4 +1,3 @@
-<script setup></script>
 <template>
   <main class="flex sticky top-0 justify-center">
     <nav
